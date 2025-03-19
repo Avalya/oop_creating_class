@@ -1,0 +1,13 @@
++---------------+
+|    Student    |
++---------------+
+| - name: str   |
+| - student_id: |
+|   str         |
+| - major: str  |
+| - gpa: float  |
++---------------+
+| + __init__()  |
+| + display_info() |
+| + is_honor_student() |
++---------------+
